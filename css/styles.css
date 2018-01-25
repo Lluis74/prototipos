@@ -1,4 +1,4 @@
-article span {
+p {
 	font-size: 3rem;
 	color: crimson;
 	background-color: black;
@@ -9,9 +9,8 @@ article span {
 	line-height: 100px!important;
 	border-radius: 50%;
   }
-p{
-	color:tomato;
-}
+
+
 h2{
 	font-size:25px;
 	color:blue;
