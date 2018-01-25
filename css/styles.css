@@ -12,9 +12,9 @@ p {
 
 
 
-h2{
-	font-size:25px;
-	color:blue;
- 	background-color:tomato;
 
+	h2{
+	color:tomato;
+	background-color:blue;
+	font-size:30px;
 }
