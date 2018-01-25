@@ -1,0 +1,14 @@
+p {
+	font-size: 3rem;
+	color: crimson;
+	background-color: black;
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	line-height: 100px!important;
+	border-radius: 50%;
+  }
+h2{
+	color:tomato;
+}
